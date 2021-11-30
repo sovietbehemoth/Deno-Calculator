@@ -921,7 +921,7 @@ function help_fn(prompt:string): void {
 }
 
 
-/*
+
 const calc = new Calculator();
 
 console.log("Deno Calculator V1 - sovietbehemoth");
@@ -950,6 +950,6 @@ while (1) {
     console.error(error.message);
   }
 }
-*/
+
 
 export default Calculator;

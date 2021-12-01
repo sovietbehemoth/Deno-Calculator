@@ -12,6 +12,7 @@ Uses the order of operations (PEMDAS). The implemented order of operations is as
 6. Addition.
 7. Subtraction.
 8. Equality checking.
+
 (variables such as PI or E are evaluated before, they don't affect the order of operations because they are static)
 
 Has basic functions such as cos, tan, sqrt.
